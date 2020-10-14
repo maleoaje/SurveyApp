@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "309250284346",
+    "firebase_url": "https://vaccinesurvey-2d72e.firebaseio.com",
+    "project_id": "vaccinesurvey-2d72e",
+    "storage_bucket": "vaccinesurvey-2d72e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309250284346:android:da4f8c21af1776cf554e03",
+        "android_client_info": {
+          "package_name": "com.example.VaccineSurvey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309250284346-nlnch2fej73kvtbkef4lg206hjrog794.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvUV6p0w7Jjl5C-xDNjmwFXRoax8ghdoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309250284346-nlnch2fej73kvtbkef4lg206hjrog794.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
